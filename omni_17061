@@ -14,10 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter cph1859,$(TARGET_DEVICE)),)
-
-LOCAL_PATH := device/oppo/17061/
-
-include $(call all-makefiles-under,$(LOCAL_PATH))
-
-endif
+$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
+PRODUCT_DEVICE := oppo6771_17061
+PRODUCT_NAME := omni_17061
+PRODUCT_BRAND := Realme
+PRODUCT_MODEL := Realme 1
+PRODUCT_MANUFACTURER := Oppo
