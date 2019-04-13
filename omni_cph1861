@@ -15,8 +15,8 @@
 #
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
-PRODUCT_DEVICE := 1861
-PRODUCT_NAME := omni_cph1861
-PRODUCT_BRAND := Realme
-PRODUCT_MODEL := Realme 1
-PRODUCT_MANUFACTURER := Realme
+PRODUCT_DEVICE := CPH1861
+PRODUCT_NAME := omni_CPH1861
+PRODUCT_BRAND := Oppo
+PRODUCT_MODEL := Oppo Realme 1
+PRODUCT_MANUFACTURER := Oppo

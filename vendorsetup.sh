@@ -1,2 +1,2 @@
-add_lunch_combo omni_17061-eng
-add_lunch_combo omni_17061-userdebug
+add_lunch_combo omni_CPH1861-eng
+add_lunch_combo omni_CPH1861-userdebug

@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/oppo/17061
+LOCAL_PATH := device/oppo/CPh1861
 
 TARGET_BOARD_PLATFORM := mt6771
 TARGET_BOOTLOADER_BOARD_NAME := oppo6771_17061

@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter cph1859,$(TARGET_DEVICE)),)
+ifneq ($(filter CPH1861,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/oppo/17061/
+LOCAL_PATH := device/oppo/CPH1861/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
